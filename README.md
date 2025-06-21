@@ -1,7 +1,8 @@
 # Phonon DFPT
 
-Commands: mv POSCAR POSCAR-unitcell
-mv SPOSCAR to POSCAR
+Commands:
+1. mv POSCAR POSCAR-unitcell
+2. mv SPOSCAR to POSCAR
 
 Phonon dispersion:
 1. phonopy --fc vasprun.xml
